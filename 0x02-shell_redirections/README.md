@@ -1,1 +1,1 @@
-non empty
+hello, world script
